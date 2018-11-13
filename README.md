@@ -21,7 +21,8 @@ Pour pouvoir exécuter la solution :
 
 2-	Une fois les composants installés, ouvrir Eclipse
 
-a.	Importer le code source de la partie serveur en tant que projet 
+a.	Importer le code source de la partie serveur en tant que projet --> choisir le dossier ExerciceJavaNexio (Eclipse devrait le
+                     détecter en tant que fichier maven) 
 b.	Faire un clic droit sur le projet et choisir « Run as → Spring Boot App »
 c.	(en local mon serveur est sur localhost:8080)
 d.	Ouvrir votre navigateur  et entrer l’url http://localhost:8080/h2-console/. Vous serez sur la page d’authentification à la base
