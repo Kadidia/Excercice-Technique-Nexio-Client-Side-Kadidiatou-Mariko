@@ -1,5 +1,6 @@
 # Excercice-Technique-Nexio-Client-Side-Kadidiatou-Mariko
-React-Redux
+ Ce readme concerne l'installation complète de la solution : 
+ serveur side (Java Spring Boot) et client side (React/Redux)
 
 Pour pouvoir exécuter la solution :
 
